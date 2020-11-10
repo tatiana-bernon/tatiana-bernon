@@ -12,7 +12,7 @@
     My Portfolio to share with you all my latest projects!
 
 ## 🌱 I’m currently learning:
-    PHP as well as more about OOP
+    Python as well as more about OOP
 
 ## 👯 I’m looking to collaborate on:
     Any amazing and meaningful project!
