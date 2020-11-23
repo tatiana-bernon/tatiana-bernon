@@ -9,7 +9,7 @@
 
 
 ## 🔭 I’m currently working on:
-   Reviewing Javascript/React and starting an online course on PHP
+    Reviewing Javascript/React and starting an online course on PHP
 
 ## 🌱 I’m currently learning:
     OOP
