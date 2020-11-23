@@ -12,7 +12,7 @@
     Reviewing Javascript/React and starting an online course on PHP
 
 ## 🌱 I’m currently learning:
-    OOP
+    Typescript and will then make a small project once I finished the online crash course.
 
 ## 👯 I’m looking to collaborate on:
     Any amazing and meaningful project!
