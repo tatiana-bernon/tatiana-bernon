@@ -9,7 +9,7 @@
 
 
 ## 🔭 I’m currently working on:
-    Reviewing Javascript/React and starting an online course on PHP
+    Reviewing Javascript/React and starting an online course on Typescript
 
 ## 🌱 I’m currently learning:
     Typescript and will then make a small project once I finished the online crash course.
