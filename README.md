@@ -8,6 +8,9 @@
 ### Hello, Kia ora, Bonjour 👋  I am Tatiana
 
 
+## 😄 Pronouns: 
+    She/her
+    
 ## 🔭 I’m currently working on:
     Reviewing Javascript/React and starting an online course on Typescript
 
@@ -22,9 +25,6 @@
 
 ## 💬 Ask me about:
     Anything! I am also up for new adventures! And the best way to learn more is to help others.
-
-## 😄 Pronouns: 
-    She/her
 
 ## ⚡ Fun fact: 
     I can speak 4 languages (English, French, Spanish and Mauritian Creole) and I am always looking to learn more.
