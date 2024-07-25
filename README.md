@@ -12,19 +12,19 @@
     She/her
     
 ## 🔭 I’m currently working on:
-    Reviewing Javascript/React and starting an online course on Typescript
+    Upskilling my Testing Automation skills
 
 ## 🌱 I’m currently learning:
-    Typescript and will then make a small project once I finished the online crash course.
+    EDA Aotearoa QA Testing Automation Online Part-Time Course
 
 ## 👯 I’m looking to collaborate on:
     Any amazing and meaningful project!
 
 ## 🤔 I’m looking for help with:
-    OOP, if you have any pointers or advice! Please enlight me!
+    Any cool tips or advise on manual Testing and Testing Automation in regards to API, if you have any pointers or advice! Please enlight me!
 
 ## 💬 Ask me about:
     Anything! I am also up for new adventures! And the best way to learn more is to help others.
 
 ## ⚡ Fun fact: 
-    I can speak 4 languages (English, French, Spanish and Mauritian Creole) and I am always looking to learn more.
+    I can speak 4 languages (English, French, Spanish, Mauritian Creole, and a little bit of Te Reo) and I am always looking to learn more.
